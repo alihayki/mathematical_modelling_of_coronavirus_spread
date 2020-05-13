@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}% 
+\contentsline {section}{\numberline {2}Compartmental Modelling}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Introduction}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Level of Compartments}{5}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}Compartmental Framework}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}SIR Framework}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}SIR Framework Overview}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Mathematical Modelling of the SIR Framework}{6}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}SIS Framework Solution}{7}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}SIR Framework Solution}{10}{subsection.3.5}% 
+\contentsline {section}{\numberline {A}Linear Differential Equation}{14}{appendix.A}% 
+\contentsline {section}{\numberline {B}Compartmental Framework - 1}{14}{appendix.B}% 
+\contentsline {section}{\numberline {C}Compartmental Framework - 2}{14}{appendix.C}% 
+\contentsline {section}{\numberline {D}Compartmental Framework - 3}{14}{appendix.D}% 
+\contentsline {section}{\numberline {E}Compartmental Framework - 4}{14}{appendix.E}% 
+\contentsline {section}{\numberline {F}timeline}{14}{appendix.F}% 
+\contentsline {section}{\numberline {G}timeline2}{14}{appendix.G}% 
+\contentsline {section}{\numberline {H}timeline x}{14}{appendix.H}% 
