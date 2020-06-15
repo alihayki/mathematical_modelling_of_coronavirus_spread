@@ -1,11 +1,19 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{Compartmental Modelling}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Introduction}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Level of Compartments}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Compartmental Framework}{}% 5
-\BOOKMARK [2][-]{subsection.3.1}{SIR Framework}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.2}{SIR Framework Overview}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.3}{Mathematical Modelling of the SIR Framework}{section.3}% 8
-\BOOKMARK [2][-]{subsection.3.4}{SIS Framework Solution}{section.3}% 9
-\BOOKMARK [2][-]{subsection.3.5}{SIR Framework Solution}{section.3}% 10
-\BOOKMARK [1][-]{appendix.A}{Compartmental Framework}{}% 11
+\BOOKMARK [1][-]{section.2}{Epidemic Theory Key Terms}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Basic Reproduction Number \(R0\)}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Effective Reproductive Number \(R\)}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Herd Immunity}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Epidemics}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Epidemic curves}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Index Case and Generation Time}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Exception Reporting}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{Significant Clusters}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Compartmental Modelling}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Introduction}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Level of Compartments}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Compartmental Framework}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{SIR Framework}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{SIR Framework Overview}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Mathematical Modelling of the SIR Framework}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.4}{SIS Framework Solution}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.5}{SIR Framework Solution}{section.4}% 19
