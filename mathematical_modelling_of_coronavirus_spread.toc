@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}% 
+\contentsline {section}{\numberline {2}Epidemic Theory Key Terms}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Basic Reproduction Number ($\mathscr {R}_{0}$)}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Effective Reproductive Number ($\mathscr {R}$)}{5}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Herd Immunity}{5}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}Epidemics}{6}{subsection.2.4}% 
+\contentsline {subsection}{\numberline {2.5}Epidemic curves}{6}{subsection.2.5}% 
+\contentsline {subsection}{\numberline {2.6}Index Case and Generation Time}{6}{subsection.2.6}% 
+\contentsline {subsection}{\numberline {2.7}Exception Reporting}{7}{subsection.2.7}% 
+\contentsline {subsection}{\numberline {2.8}Significant Clusters}{7}{subsection.2.8}% 
+\contentsline {section}{\numberline {3}Compartmental Modelling}{7}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Introduction}{7}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Level of Compartments}{7}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Compartmental Framework}{8}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}SIR Framework}{8}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}SIR Framework Overview}{8}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Mathematical Modelling of the SIR Framework}{11}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}SIS Framework Solution}{12}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}SIR Framework Solution}{15}{subsection.4.5}% 
